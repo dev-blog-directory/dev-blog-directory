@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Developer Blog Directory - Türkçe</title>
+        <dateCreated>Fri, 29 Nov 2019 00:00:00 GMT</dateCreated>
+        <dateModified>Fri, 10 Apr 2020 07:20:04 GMT</dateModified>
+        <ownerName>https://github.com/dailyrandomphoto</ownerName>
+    </head>
+    <body>
+        <outline type="rss" text="Ahmet Yalcinkaya on Medium" title="Ahmet Yalcinkaya on Medium" xmlUrl="https://medium.com/feed/@theswiftist" htmlUrl="https://medium.com/@theswiftist"/>
+        <outline type="rss" text="Batuhan Saka on Medium" title="Batuhan Saka on Medium" xmlUrl="https://medium.com/feed/@strawb3rryx7" htmlUrl="https://medium.com/@strawb3rryx7"/>
+        <outline type="rss" text="Durul Dalkanat on Medium" title="Durul Dalkanat on Medium" xmlUrl="https://medium.com/feed/@duruldalkanat" htmlUrl="https://medium.com/@duruldalkanat"/>
+        <outline type="rss" text="Gokhan Topcu on Medium" title="Gokhan Topcu on Medium" xmlUrl="https://medium.com/feed/@ifndefgt" htmlUrl="https://medium.com/@ifndefgt"/>
+        <outline type="rss" text="Hüseyin Bagana on Medium" title="Hüseyin Bagana on Medium" xmlUrl="https://medium.com/feed/@huseyinbagana" htmlUrl="https://medium.com/@huseyinbagana"/>
+        <outline type="rss" text="Mehmet Koca on Medium" title="Mehmet Koca on Medium" xmlUrl="https://medium.com/feed/@mhmtkc" htmlUrl="https://medium.com/@mhmtkc"/>
+        <outline type="rss" text="NSColak Swift Blog" title="NSColak Swift Blog" xmlUrl="https://nscolak.com/feed.xml" htmlUrl="https://nscolak.com/"/>
+        <outline type="rss" text="NSIstanbul Blog" title="NSIstanbul Blog" xmlUrl="https://medium.com/feed/nsistanbul" htmlUrl="https://medium.com/nsistanbul"/>
+        <outline type="rss" text="WHOKNOWS Blog" title="WHOKNOWS Blog" xmlUrl="https://medium.com/feed/whoknows-swift" htmlUrl="https://medium.com/whoknows-swift"/>
+    </body>
+</opml>

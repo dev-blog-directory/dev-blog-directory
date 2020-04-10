@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Developer Blog Directory - Bahasa Indonesia</title>
+        <dateCreated>Fri, 29 Nov 2019 00:00:00 GMT</dateCreated>
+        <dateModified>Fri, 10 Apr 2020 07:20:04 GMT</dateModified>
+        <ownerName>https://github.com/dailyrandomphoto</ownerName>
+    </head>
+    <body>
+        <outline type="rss" text="Python ID Blog" title="Python ID Blog" xmlUrl="http://www.python.or.id/feeds/posts/default" htmlUrl="http://www.python.or.id/"/>
+    </body>
+</opml>

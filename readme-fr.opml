@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Developer Blog Directory - Français</title>
+        <dateCreated>Fri, 29 Nov 2019 00:00:00 GMT</dateCreated>
+        <dateModified>Fri, 10 Apr 2020 07:20:04 GMT</dateModified>
+        <ownerName>https://github.com/dailyrandomphoto</ownerName>
+    </head>
+    <body>
+        <outline type="rss" text="Académie Ryfacto | Advanced iOS Craft" title="Académie Ryfacto | Advanced iOS Craft" xmlUrl="https://academie.ryfacto.fr/advanced-ios-craft/feed.xml" htmlUrl="https://academie.ryfacto.fr/"/>
+        <outline type="rss" text="Blog de l&apos;équipe iOS de PagesJaunes" title="Blog de l&apos;équipe iOS de PagesJaunes" xmlUrl="https://developers.pagesjaunes.fr/tag/ios/rss/" htmlUrl="https://developers.pagesjaunes.fr/tag/ios/"/>
+        <outline type="rss" text="Blog de Vincent Tourraine" title="Blog de Vincent Tourraine" xmlUrl="https://www.vtourraine.net/blog/feed.xml" htmlUrl="https://www.vtourraine.net/blog/tags/dev"/>
+        <outline type="rss" text="NSHipster en français" title="NSHipster en français" xmlUrl="https://nshipster.fr/feed.xml" htmlUrl="https://nshipster.fr/"/>
+    </body>
+</opml>

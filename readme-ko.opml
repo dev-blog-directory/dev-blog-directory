@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Developer Blog Directory - 한국어</title>
+        <dateCreated>Fri, 29 Nov 2019 00:00:00 GMT</dateCreated>
+        <dateModified>Fri, 10 Apr 2020 07:20:04 GMT</dateModified>
+        <ownerName>https://github.com/dailyrandomphoto</ownerName>
+    </head>
+    <body>
+        <outline type="rss" text="NSHipster 한국" title="NSHipster 한국" xmlUrl="https://nshipster.co.kr/feed.xml" htmlUrl="https://nshipster.co.kr/"/>
+        <outline type="rss" text="pilgwon&apos;s blog" title="pilgwon&apos;s blog" xmlUrl="https://pilgwon.github.io/blog/feed.xml" htmlUrl="https://pilgwon.github.io/blog/"/>
+        <outline type="rss" text="tucan&apos;s blog" title="tucan&apos;s blog" xmlUrl="http://blog.canapio.com/rss" htmlUrl="http://blog.canapio.com/"/>
+    </body>
+</opml>

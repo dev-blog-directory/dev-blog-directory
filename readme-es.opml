@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Developer Blog Directory - Español</title>
+        <dateCreated>Fri, 29 Nov 2019 00:00:00 GMT</dateCreated>
+        <dateModified>Fri, 10 Apr 2020 07:20:04 GMT</dateModified>
+        <ownerName>https://github.com/dailyrandomphoto</ownerName>
+    </head>
+    <body>
+        <outline type="rss" text="alexruperez.com" title="alexruperez.com" xmlUrl="http://feeds.alexruperez.com/alexruperez" htmlUrl="http://www.alexruperez.com/entries"/>
+        <outline type="rss" text="CFE Apps" title="CFE Apps" xmlUrl="https://cfeapps.com/feed/" htmlUrl="https://cfeapps.com/"/>
+        <outline type="rss" text="desappstre" title="desappstre" xmlUrl="http://desappstre.com/feed/" htmlUrl="http://desappstre.com/"/>
+        <outline type="rss" text="NSHipster en español" title="NSHipster en español" xmlUrl="https://nshipster.es/feed.xml" htmlUrl="https://nshipster.es/"/>
+    </body>
+</opml>

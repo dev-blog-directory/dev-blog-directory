@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Developer Blog Directory - Русский</title>
+        <dateCreated>Fri, 29 Nov 2019 00:00:00 GMT</dateCreated>
+        <dateModified>Fri, 10 Apr 2020 07:20:04 GMT</dateModified>
+        <ownerName>https://github.com/dailyrandomphoto</ownerName>
+    </head>
+    <body>
+        <outline type="rss" text="Nikita Teslyuk on Medium" title="Nikita Teslyuk on Medium" xmlUrl="https://medium.com/feed/@tesnik" htmlUrl="https://medium.com/@tesnik"/>
+        <outline type="rss" text="SwiftBook" title="SwiftBook" xmlUrl="https://swiftbook.ru/feed/" htmlUrl="https://swiftbook.ru/"/>
+    </body>
+</opml>
