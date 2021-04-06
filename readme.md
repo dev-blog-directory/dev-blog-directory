@@ -1823,6 +1823,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#cloud-computing`
 - [Insisive Cloud Insights](http://www.blog.insisiv.com/)
   <br>`#cloud-computing`
+- [Shake Blog](https://www.shakebugs.com/blog/) ([Feed](https://www.shakebugs.com/blog/feed/))
+  <br>`#Team` `#ios`
 - [Instabug Blog](https://blog.instabug.com/) ([Feed](https://blog.instabug.com/feed/))
   <br>`#Team` `#ios`
 - [Instacart](https://tech.instacart.com/) ([Feed](https://tech.instacart.com/feed)) - Instacart Tech Blog.
