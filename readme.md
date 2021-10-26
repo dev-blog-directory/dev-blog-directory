@@ -78,8 +78,6 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
 - [AHOM Technologies Private Limited](https://ahomtechnologies.blogspot.com/) ([Feed](https://ahomtechnologies.blogspot.com/feeds/posts/default))
   <br>`#web-development`
 - [Ahsen Saeed | Just another Programming Nerd](https://ahsensaeed.com/)
-- [AIJogja](http://aijogja.pythonblogs.com/251_aijogja)
-  <br>`#Personal` `#python`
 - [Airbnb](https://medium.com/airbnb-engineering) ([Feed](https://medium.com/feed/airbnb-engineering))
   <br>`#Team`
 - [Airbnb Engineering - Nerds](http://nerds.airbnb.com/) ([Feed](https://medium.com/feed/airbnb-engineering))
@@ -94,7 +92,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal`
 - [akorotkov.github.io](http://akorotkov.github.io/) ([Feed](http://akorotkov.github.io/atom.xml))
   <br>`#Personal` `#database`
-- [Alan Bi](https://alanbi.com/blog/) ([Feed](https://www.alanbi.com/feed))
+- [Alan Bi](https://alanbi.com/blog/) 
   <br>`#Personal`
 - [Alan Chang](https://tcode2k16.github.io/blog/) ([Feed](https://tcode2k16.github.io/blog/index.xml))
 - [Alan Richmond](http://python3.codes/)
@@ -128,7 +126,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
 - [Alexander Zeitler](https://alexanderzeitler.com/) ([Feed](https://alexanderzeitler.com/feed.xml)) - Alexander Zeitler's Blog. A passionated developer love to create outstanding solutions for the web and mobile platforms since 1994.
 - [Alexandros Salazar's Blog](https://nomothetis.svbtle.com/) ([Feed](https://nomothetis.svbtle.com/feed))
   <br>`#Personal` `#ios`
-- [Alexandru-Paul Copil](https://cpl.li/) ([Feed](https://cpl.li/feed.xml))
+- [Alexandru-Paul Copil](https://cpl.li/)
 - [alexcarpenter.me](https://alexcarpenter.me/) ([Feed](https://alexcarpenter.me/feed.xml))
   <br>`#Personal`
 - [Alexis Creuzot on Medium](https://medium.com/@alexiscreuzot) ([Feed](https://medium.com/feed/@alexiscreuzot))
@@ -181,15 +179,13 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#vuejs` `#javascript` `#framework` `#web-development`
 - [An Android Developer's Blog](https://blog.egorand.me/) ([Feed](https://blog.egorand.me/rss/))
   <br>`#android`
-- [Anaconda](https://www.continuum.io/blog/developer-blog)
-  <br>`#Team` `#python`
 - [Anastasiia Vixentael on Medium](https://medium.com/@vixentael/) ([Feed](https://medium.com/feed/@vixentael/))
   <br>`#Personal` `#ios`
 - [Anders Aarvik](http://aarvik.dk/) ([Feed](https://aarvik.dk/rss/index.html))
   <br>`#Personal` `#systems`
 - [Andre Roberge](https://aroberge.blogspot.co.id/) ([Feed](https://aroberge.blogspot.com/feeds/posts/default))
   <br>`#Personal` `#python`
-- [Andreas Schuster](https://computer.forensikblog.de/en/) ([Feed](https://computer.forensikblog.de/en/atom.xml))
+- [Andreas Schuster](https://computer.forensikblog.de/en/) 
   <br>`#Personal`
 - [Andrew Bancroft](https://www.andrewcbancroft.com/) ([Feed](https://www.andrewcbancroft.com/index.xml))
   <br>`#Personal` `#ios` `#swift`
@@ -305,7 +301,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal` `#ios`
 - [Ariejan de Vroom](https://ariejan.net/) ([Feed](https://www.devroom.io/index.xml))
   <br>`#Personal`
-- [Ariel Elkin's Blog](https://arielelkin.github.io/) ([Feed](https://arielelkin.github.io/feed.xml))
+- [Ariel Elkin's Blog](https://arielelkin.github.io/) 
   <br>`#Personal` `#ios`
 - [ariya.io](https://ariya.io/) ([Feed](https://ariya.io/index.xml))
   <br>`#Personal` `#web-development`
@@ -642,7 +638,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal` `#ios`
 - [CenturyLink](https://www.ctl.io/developers/blog) ([Feed](https://www.ctl.io/developers/blog/rss))
   <br>`#Team`
-- [Cerner](http://engineering.cerner.com/) ([Feed](https://engineering.cerner.com/atom.xml)) - Engineering Health, A Cerner Blog.
+- [Cerner](http://engineering.cerner.com/) - Engineering Health, A Cerner Blog.
   <br>`#Team`
 - [CGMaster](http://www.cgmasters.net/category/free-tutorials/python/)
   <br>`#Team` `#python`
@@ -698,7 +694,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal` `#ios`
 - [chsakell's Blog](https://chsakell.com/) ([Feed](https://chsakell.com/feed/))
   <br>`#web-development`
-- [Cihat Gündüz on Medium](https://medium.com/@Dschee) ([Feed](https://medium.com/feed/@Dschee))
+- [Cihat Gündüz on Medium](https://medium.com/@Dschee)
   <br>`#Personal` `#ios`
 - [CIO Dive » Cloud Computing](http://www.ciodive.com/topic/cloud-computing/) ([Feed](https://www.ciodive.com/feeds/news/))
   <br>`#cloud-computing`
@@ -744,7 +740,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Team`
 - [Cloudera Engineering Blog](https://blog.cloudera.com/) ([Feed](https://blog.cloudera.com/feed/))
   <br>`#Team`
-- [CloudExpo Journal](http://cloudcomputing.sys-con.com/) ([Feed](http://cloudcomputing.sys-con.com/index.rss))
+- [CloudExpo Journal](http://cloudcomputing.sys-con.com/) 
   <br>`#cloud-computing`
 - [Cloudflare](https://blog.cloudflare.com/) ([Feed](https://blog.cloudflare.com/rss/)) - Cloudflare blog.
   <br>`#Team`
@@ -796,7 +792,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#angular` `#javascript` `#framework` `#web-development`
 - [Code with Hugo](https://codewithhugo.com/) ([Feed](https://codewithhugo.com/index.xml))
   <br>`#Personal` `#javascript`
-- [Code with style!](https://codewithstyle.info/) ([Feed](https://codewithstyle.info/feed/))
+- [Code with style!](https://codewithstyle.info/)
   <br>`#Personal`
 - [Code Workshop](http://codeworkshop.net/) ([Feed](http://codeworkshop.net/feed))
   <br>`#Personal` `#ios`
@@ -1178,7 +1174,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal` `#low-level`
 - [Dušan Tadić's Blog](https://www.dusantadic.dev/) ([Feed](https://www.dusantadic.dev/index.xml))
   <br>`#Personal` `#ios`
-- [dwr.io](https://dwr.io/) ([Feed](https://dwr.io/feed))
+- [dwr.io](https://dwr.io/) 
   <br>`#Personal`
 - [DZone Web Dev Zone](https://dzone.com/) - A blog about the latest technology trends.
   <br>`#web-development`
@@ -1532,7 +1528,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal`
 - [Göksel Köksal on Medium](https://medium.com/@gokselkoksal) ([Feed](https://medium.com/feed/@gokselkoksal))
   <br>`#Personal` `#ios`
-- [Gokulakrishnan Kalaikovan](https://gokul.site/) ([Feed](https://gokul.site/rss.xml))
+- [Gokulakrishnan Kalaikovan](https://gokul.site/)
   <br>`#Personal`
 - [Golang | News, Libraries, Apps & more](https://golang.ch/) ([Feed](https://golang.ch/feed/))
   <br>`#golang`
@@ -1581,7 +1577,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#geek`
 - [Graphcool](https://blog.graph.cool/) ([Feed](https://www.prisma.io/blog/rss.xml))
   <br>`#Team`
-- [GraphQL Blog - Visual graphql editor](https://blog.graphqleditor.com/) ([Feed](https://blog.graphqleditor.com/rss.xml))
+- [GraphQL Blog - Visual graphql editor](https://blog.graphqleditor.com/)
   <br>`#graphql`
 - [GraphQL | Reddit](https://old.reddit.com/r/graphql/) ([Feed](https://old.reddit.com/r/graphql/.rss))
   <br>`#graphql`
@@ -1948,7 +1944,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal` `#ios`
 - [Jasdev Singh’s Blog](https://jasdev.me/) ([Feed](https://jasdev.me/atom.xml))
   <br>`#Personal` `#ios`
-- [Jason Everett](https://blog.ijasoneverett.com/) ([Feed](https://blog.ijasoneverett.com/feed/))
+- [Jason Everett](https://blog.ijasoneverett.com/)
 - [Jason Santa Maria](http://jasonsantamaria.com/) ([Feed](http://feeds.feedburner.com/jsm-rss))
   <br>`#Personal`
 - [Jason Zurita's Blog](https://www.jasonzurita.com/blog/) ([Feed](https://www.jasonzurita.com/feed.xml))
@@ -2108,7 +2104,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#react`
 - [Jster's Blog](http://jster.net/blog) ([Feed](http://feeds.feedburner.com/jster))
   <br>`#web-development`
-- [Juan Treminio](https://jtreminio.com/) ([Feed](https://jtreminio.com/atom.xml))
+- [Juan Treminio](https://jtreminio.com/) 
   <br>`#Personal`
 - [juanfernandes](https://juanfernandes.uk/blog/) ([Feed](https://www.juanfernandes.uk/rss))
   <br>`#Personal`
@@ -2330,6 +2326,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Team`
 - [Logical IDEA](https://logicalidea.co/) ([Feed](https://logicalidea.co/feed/))
   <br>`#web-development`
+- [Logit.io](https://logit.io/blog/) ([Feed](https://logit.io/blog/rss.xml))
+  <br>`#Team
 - [Loic Land](https://loic.land/) ([Feed](https://loic.land/feed.xml))
   <br>`#Personal` `#ios`
 - [Lord Codes](https://www.lordcodes.com/ios/) ([Feed](https://www.lordcodes.com/feeds/ios.xml))
@@ -2352,8 +2350,6 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
 - [Luke Smith's Blog](https://www.lukecsmith.co.uk/) ([Feed](http://www.lukecsmith.co.uk/feed/))
   <br>`#Personal` `#ios`
 - [lukew.com](https://www.lukew.com/ff/) ([Feed](http://feeds.feedburner.com/FunctioningForm))
-  <br>`#Personal`
-- [lvrbrtsn.com/blog](https://lvrbrtsn.com/blog/)
   <br>`#Personal`
 - [Lyft Engineering](https://eng.lyft.com/) ([Feed](https://eng.lyft.com/feed))
   <br>`#Team`
@@ -3522,8 +3518,6 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal`
 - [Soshace](https://blog.soshace.com/en/) ([Feed](https://blog.soshace.com/en/feed/))
   <br>`#Team`
-- [SoSoSwift - The Most Comprehensive Swift Language Resource](http://www.sososwift.com/) ([Feed](http://sososwift.com))
-  <br>`#ios` `#swift`
 - [Sound of Silence](http://sound-of-silence.com/) ([Feed](http://sound-of-silence.com/rss.xml))
   <br>`#Personal` `#ios`
 - [SoundCloud](https://developers.soundcloud.com/blog/) ([Feed](https://developers.soundcloud.com/blog.rss)) - SoundCloud Backstage.
@@ -3624,9 +3618,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#android`
 - [Subclassed](http://blog.pythonaro.com/) ([Feed](http://blog.pythonaro.com/feeds/posts/default))
   <br>`#Personal` `#python`
-- [Sudhagar](http://sudhagar.com/) ([Feed](http://sudhagar.com/feed.xml))
-  <br>`#Personal`
-- [sudo ISL](https://sudo.isl.co/) ([Feed](https://sudo.isl.co/atom.xml))
+- [sudo ISL](https://sudo.isl.co/) 
   <br>`#Team` `#ios`
 - [Sunshinejr's Blog](http://sunshinejr.com/tags/ios/) ([Feed](http://sunshinejr.com/tags/ios/index.xml))
   <br>`#Personal` `#ios`
