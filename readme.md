@@ -3358,6 +3358,7 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#web-development`
 - [Savvy Apps Blog](https://savvyapps.com/blog) ([Feed](https://savvyapps.com/blog/feed.rss))
   <br>`#Team` `#ios`
+- [Scaler Topics](https://www.scaler.com/topics/) - A curated interactive space for aspiring programmers to learn and master their coding skills. 
 - [Schibsted Tech Polska](http://www.schibsted.pl/blog/) ([Feed](http://www.schibsted.pl/blog/feed/))
   <br>`#Team`
 - [Scorpios](https://scorpios.home.blog/) ([Feed](https://scorpios.home.blog/feed/))
