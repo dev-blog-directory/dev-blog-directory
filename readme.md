@@ -377,6 +377,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
 
 ## B [[top](#developer-blog-directory)]
 
+- [Interviewbit](https://www.interviewbit.com/blog) - Interviewbit Blog.
+  <br>`#Team`
 - [Babbel](https://bytes.babbel.com/en/) ([Feed](https://blog.babbel.com/en/feed/)) - Babbel Engineering.
   <br>`#Team`
 - [Backtrace](https://backtrace.io/blog/) ([Feed](https://backtrace.io/feed/)) - Backtrace Blog.
