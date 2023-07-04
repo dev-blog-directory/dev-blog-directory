@@ -1976,6 +1976,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#java`
 - [Javarevisited](https://javarevisited.blogspot.com/) ([Feed](https://javarevisited.blogspot.com/feeds/posts/default))
   <br>`#java`
+  - [Java Strings Interview Questions](https://www.codeforhunger.com/2023/06/java-strings-interview-questions.html) ([Feed](https://www.codeforhunger.com))
+  <br>`#java`
 - [JavaScript Weekly](https://javascriptweekly.com/) ([Feed](https://javascriptweekly.com/rss/23g6ode2))
   <br>`#javascript` `#web-development`
 - [JavaScriptSearch Articles](https://www.javascriptsearch.com/) ([Feed](https://www.javascriptsearch.com/rss_xmls/3_rss.xml))
